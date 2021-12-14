@@ -6,6 +6,7 @@
 
 ## Quick Links
 
+
 | Info | Description | Link |
 | ---- | ----------- | ---- |
 | CPCFI's 2022 Winter Contest | Open to studen teams from any country | Coming soon... |
@@ -14,6 +15,7 @@
 | syllabus | CPCFI's competitive programming syllabus | [here](https://github.com/CPCFI-org/welcome/blob/main/CPCFI%20-%20Syllabus.pdf) |
 | lectures | CPCFI's entire competitive programming lectures | [here](https://github.com/CPCFI-org/lectures) |
 | contests | CPCFI's competitive programming contests with editorials  | [here](https://github.com/CPCFI-org/contests) |
+|   |   |   |
 
 ## About CPCFI
 
