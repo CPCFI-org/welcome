@@ -8,7 +8,8 @@
 
 | Info | Description | Link |
 | ---- | ----------- | ---- |
-| -  | -  | -  |
+| CPCFI's 2022 Winter Contest  | Open to studen teams from any country | Coming soon... |
+
 
 
 ## About CPCFI
