@@ -11,7 +11,7 @@
 | CPCFI's 2022 Winter Contest  | Open to studen teams from any country | Coming soon... |
 | CPCFI's 2nd generation inviation |  Check out our requirements | Coming soon... |
 | CPCFI's web page  | [Aleksei](https://github.com/Aleksei115) did a fantastic job ! | [CPCFI's webpage](http://www.cpcfi.unam.mx/)  |
-| syllabus | CPCFI's competitive programming syllabus | [CPCFI's syllabus](https://github.com/CPCFI-org/lectures/blob/main/CPCFI%20-%20Syllabus.pdf) |
+| syllabus | CPCFI's competitive programming syllabus | [CPCFI's syllabus](https://github.com/CPCFI-org/lectures/blob/main/CPCFI_Syllabus.pdf) |
 | lectures | CPCFI's entire competitive programming lectures | [CPCFI's lectures](https://github.com/CPCFI-org/lectures) |
 | contests | CPCFI's competitive programming contests with editorials  | [CPCFI's contests](https://github.com/CPCFI-org/contests) |
 
